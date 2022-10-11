@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:title="User Name"
+        android:key="user_name"
+        android:summary="Set your user name" />
+
+    <EditTextPreference
+        android:title="Goal Weight"
+        android:key="goal_weight"
+        android:summary="Set your goal weight" />
+</PreferenceScreen>
